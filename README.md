@@ -1,6 +1,7 @@
 
-# ZERODHA Clone
-This project is a frontend-only clone of the popular trading platform ZERODHA. Built entirely with React, it aims to replicate the user interface and user experience of ZERODHA, including the main application and ZERODHA Kite (dashboard), with static stock data displayed using Chart.js.
+ # ZERODHA Clone
+This project is a frontend-only clone of the popular trading platform ZERODHA. Built entirely with React, it aims to replicate the user interface and user experience of ZERODHA, including the main application 
+ and ZERODHA Kite (dashboard), with static stock data displayed using Chart.js.
 
 ######  Disclaimer: This project is a frontend replica for learning purposes only. All stock data displayed is static and does not represent real-time or actual market data. No financial transactions can be made through this application.
 
@@ -21,5 +22,6 @@ This project is a frontend-only clone of the popular trading platform ZERODHA. B
 #### Frontend: React, JavaScript,BootStrap,HTML,CSS
 #### Chart.js,Node.js,Express.js,MongoDD
 
+Zerodha Video
 
 https://github.com/user-attachments/assets/d4deaa54-0b24-4d7c-bee3-7038192a16a9
