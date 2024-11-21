@@ -21,3 +21,5 @@ This project is a frontend-only clone of the popular trading platform ZERODHA. B
 #### Frontend: React, JavaScript,BootStrap,HTML,CSS
 #### Chart.js,Node.js,Express.js,MongoDD
 
+
+https://github.com/user-attachments/assets/d4deaa54-0b24-4d7c-bee3-7038192a16a9
